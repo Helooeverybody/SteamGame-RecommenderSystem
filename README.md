@@ -1,6 +1,6 @@
-# HUST Recommender System On Steam
+# Recommender System On Steam
 
-Mini project submission for Machine Learning - IT3190E, by Group 10.
+Mini project submission for Machine Learning 
 
 | Group member     | Student ID |
 | :--------------- | :--------: |
@@ -11,8 +11,6 @@ Mini project submission for Machine Learning - IT3190E, by Group 10.
 | Nguyen Minh Quan |  20225520  |
 
 Guided by Prof. Than Quang Khoat.
-
-This project is marked as final as of **31/05/2024**. No further contribution is accepted.
 
 ## Description
 
